@@ -1,0 +1,13 @@
+title: Bede The Unremarkable
+description: Writing, projects, and assorted observations.
+url: "https://bedetheunremarkable.com"
+baseurl: ""
+markdown: kramdown
+permalink: /writing/:title/
+timezone: America/Chicago
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
