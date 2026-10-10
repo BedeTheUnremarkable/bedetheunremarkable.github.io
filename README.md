@@ -8,7 +8,7 @@ Keep Settings → Pages set to Deploy from a branch, `main`, `/ (root)`. GitHub 
 
 ## Editing
 
-Edit `index.md`, `writing.md`, `projects.md`, and `about.md` for page copy. Styles live in `assets/css/style.css`.
+Edit `index.md`, `writing.md`, `art.md`, and `about.md` for page copy. Styles live in `assets/css/style.css`.
 
 To publish an entry, create `_posts/YYYY-MM-DD-title.md`:
 
