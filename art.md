@@ -5,6 +5,8 @@ permalink: /art/
 ---
 # Art
 
-A home for visual work: comics, games, photography, and other experiments.
+A home for creative work: comics, games, and other experiments.
 
-There isn't any art on display yet. When something is ready to share, you'll find it here.
+<ul class="project-list">
+<li><a href="{{ '/art/photography/' | relative_url }}">Photography</a> &mdash; amateur photographs, newest first.</li>
+</ul>

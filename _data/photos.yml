@@ -1,0 +1,23 @@
+# One entry per photo. Newest dates show first; photos are grouped by year.
+# Run scripts/prepare_photos.py on your originals first, then add an entry here
+# using the file name it produced.
+#
+# - file: harbor-fog.jpg
+#   date: 2026-10-04
+#   title: Harbor fog          # optional, shown in the lightbox
+#   alt: Fishing boats in morning fog at a harbor   # required: describe the photo
+
+ - file: img-20261002-114852780-hdr.jpg
+   date: 2026-10-02
+#   title: Harbor fog          # optional, shown in the lightbox
+   alt: Entrance to the beach   # required: describe the photo
+
+ - file: img-20261002-114736280-hdr.jpg
+   date: 2026-10-02
+#   title: Harbor fog          # optional, shown in the lightbox
+   alt: Horizon view of undisturbed coastline   # required: describe the photo
+
+ - file: img-20261002-114748433-hdr.jpg
+   date: 2026-10-02
+#   title: Harbor fog          # optional, shown in the lightbox
+   alt: More views   # required: describe the photo
