@@ -23,4 +23,7 @@ social:
     text: "Instagram"
     link: "https://www.instagram.com/bedetheunremarkable/"
 
-
+  - name: "Tumblr"
+    icon-class: "fa fa-tumblr"
+    text: "Tumblr"
+    link: "https://www.tumblr.com/bedetheunremarkable"
