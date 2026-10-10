@@ -3,7 +3,34 @@ layout: default
 title: Page not found
 permalink: /404.html
 ---
-<p class="eyebrow">A wrong turn</p>
-<h1>Nothing here.</h1>
-<p>This page may have moved, or may never have existed.</p>
-<p><a href="{{ '/' | relative_url }}">Return home →</a></p>
+<style>
+  #bede-404 { text-align: center; padding: 24px 0; }
+  #bede-404-image { display: block; max-width: 100%; max-height: 65vh; width: auto; height: auto; margin: 24px auto; }
+</style>
+<section id="bede-404" aria-labelledby="error-title">
+  <h1 id="error-title">404 — Please Return To The Homepage Warmly</h1>
+  <p>The page is missing. The welcoming committee is doing its best.</p>
+  <img id="bede-404-image" src="{{ '/assets/img/404-1.webp' | relative_url }}"
+    alt="Nothing ever was here. Millions Must Return To The Homepage.">
+  <p><a href="{{ '/' | relative_url }}">Return home →</a></p>
+</section>
+<script>
+(() => {
+  const images = [
+    { src: {{ '/assets/img/404-1.webp' | relative_url | jsonify }}, alt:"Nothing ever was here. Millions Must Return To The Homepage." },
+    { src: {{ '/assets/img/404-2.png' | relative_url | jsonify }}, alt: "It is no more. The page has shuffled off this mortal server." },
+    { src: {{ '/assets/img/404-3.png' | relative_url | jsonify }}, alt: "We brought flowers." },
+    { src: {{ '/assets/img/404-4.jpg' | relative_url | jsonify }}, alt: "THERE IS NOTHING HERE, DO NOT INVESTIGATE THE MATTER ANY FURTHER" },
+    { src: {{ '/assets/img/404-5.png' | relative_url | jsonify }}, alt: "Looks like the bug farming industry just crashed, again." },
+    { src: {{ '/assets/img/404-6.webp' | relative_url | jsonify }}, alt:"Obsessed event horizon o algo" },
+    { src: {{ '/assets/img/404-7.png' | relative_url | jsonify }}, alt: "The missing page may be with the washwoman." },
+    { src: {{ '/assets/img/404-8.jpg' | relative_url | jsonify }}, alt: "Uguu... perhaps a taiyaki would help." },
+    { src: {{ '/assets/img/404-9.jpg' | relative_url | jsonify }}, alt: "404 AHOGE Not Found. Even the little hair tuft has gone missing." },
+    { src: {{ '/assets/img/404-10.jpeg' | relative_url | jsonify }}, alt:"エラーが発生しました（大嘘）" }
+  ];
+  const chosen = images[Math.floor(Math.random() * images.length)];
+  const image = document.getElementById('bede-404-image');
+  image.alt = chosen.alt;
+  image.src = chosen.src;
+})();
+</script>

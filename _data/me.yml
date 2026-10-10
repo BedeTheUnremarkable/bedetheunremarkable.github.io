@@ -1,10 +1,26 @@
 name: "Bede The Unremarkable"
 display_name: "Bede The Unremarkable"
 
-contact: []
+contact:
+  - name: "Telegram"
+    icon-class: "fa fa-paper-plane"
+    text: "Telegram"
+    link: "https://t.me/bedetheunremarkable"
+
+  - name: "Discord"
+    icon-class: "fa fa-comments"
+    text: "Discord"
+    link: "https://discordapp.com/users/1558143518466379843"
+
+  - name: "Email"
+    icon-class: "fa fa-envelope"
+    text: "Email address on About page"
+    link: "/about/#email"
 
 social:
-  - name: "GitHub"
-    icon-class: "fa fa-github-square"
-    text: "BedeTheUnremarkable"
-    link: "https://github.com/BedeTheUnremarkable"
+  - name: "Instagram"
+    icon-class: "fa fa-instagram"
+    text: "Instagram"
+    link: "https://www.instagram.com/bedetheunremarkable/"
+
+

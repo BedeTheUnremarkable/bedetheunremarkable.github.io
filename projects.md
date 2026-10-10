@@ -3,8 +3,6 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-<p class="eyebrow">The workbench</p>
-
 # Projects
 
 A home for creative work: comics, games, and other experiments.

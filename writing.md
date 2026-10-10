@@ -3,8 +3,6 @@ layout: default
 title: Writing
 permalink: /writing/
 ---
-<p class="eyebrow">The notebook</p>
-
 # Writing
 
 Essays, fiction, and assorted observations.
