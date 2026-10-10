@@ -3,7 +3,7 @@
         {% if post.date %}
         <p class="day">{{ post.date | date: "%d" }}</p>
         <p class="month">{{ post.date | date: "%b/%Y" }}</p>
-        <p class="category">{{ post.category }}</p>
+        <p class="category">{{ post.category | join: ", " }}</p>
         {% endif %}
     </div>
 

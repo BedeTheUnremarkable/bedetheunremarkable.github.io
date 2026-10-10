@@ -2,7 +2,7 @@
 layout: post
 title: "New photos in the gallery"
 announcement: true
-category: Updates
+categories: [Updates, Photography]
 permalink: /updates/2026-10-10-new-gallery-photos/
 ---
 
