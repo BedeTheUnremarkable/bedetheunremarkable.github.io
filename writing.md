@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 # Writing
 
-Essays, fiction, and assorted observations.
+Essays, fiction, and assorted observations. Here be SNCA.
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts %}
