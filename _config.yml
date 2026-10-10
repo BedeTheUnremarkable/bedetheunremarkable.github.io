@@ -1,13 +1,43 @@
-title: Bede The Unremarkable
-description: Writing, projects, and assorted observations.
+name: "BEDE"
+title: "Bede The Unremarkable"
+shout:
+  - "The Unremarkable"
+  - "Or something of that sort, yeah."
+description: "Writing and creative projects by Bede The Unremarkable."
+
 url: "https://bedetheunremarkable.com"
 baseurl: ""
-markdown: kramdown
-permalink: /writing/:title/
 timezone: America/Chicago
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+
+paginate: 7
+paginate_path: "/page:num/"
+permalink: /writing/:title/
+excerpt_separator: "[-----]"
+
+disqus:
+  comments: false
+
+gitalk:
+  comments: false
+
+google_analytics:
+  id: ""
+
 exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - vendor

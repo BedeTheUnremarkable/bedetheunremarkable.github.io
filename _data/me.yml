@@ -1,0 +1,10 @@
+name: "Bede The Unremarkable"
+display_name: "Bede The Unremarkable"
+
+contact: []
+
+social:
+  - name: "GitHub"
+    icon-class: "fa fa-github-square"
+    text: "BedeTheUnremarkable"
+    link: "https://github.com/BedeTheUnremarkable"
