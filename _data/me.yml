@@ -28,7 +28,7 @@ social:
     text: "Tumblr"
     link: "https://www.tumblr.com/bedetheunremarkable"
 
-  - name: "Youtube"
-    icon-class: "fa fa-youtube"
-    text: "Youtube"
-    link: "https://www.youtube.com/channel/UCOtiM7d8WPa8kqNemN3bpVg"
+  - name: "More Links"
+    icon-class: "fa fa-link"
+    text: "More Links"
+    link: "/links/"
