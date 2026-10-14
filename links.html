@@ -1,0 +1,71 @@
+---
+layout: null
+permalink: /links/
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow">
+  <title>More Links | Bede The Unremarkable</title>
+  <style>
+    /* Deliberately separate from the main site's theme. */
+    *, *::before, *::after { box-sizing: border-box; }
+    html { background: #fff; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: #fff;
+      color: #000;
+      font-family: "Arial Black", "Helvetica Neue", Arial, sans-serif;
+      text-align: center;
+    }
+    main {
+      width: 100%;
+      max-width: 580px;
+      margin: 0 auto;
+      padding: 0 16px 48px;
+    }
+    .banner {
+      display: block;
+      width: 100%;
+      max-width: 548px;
+      height: auto;
+      margin: 0 auto;
+    }
+    .links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 18px;
+      margin-top: 20px;
+    }
+    .links a {
+      color: #000;
+      font-size: clamp(1.5rem, 5vw, 2rem);
+      font-weight: 900;
+      line-height: 1.2;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+    .links a:hover,
+    .links a:focus-visible { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main>
+    <img
+      class="banner"
+      src="{{ '/assets/img/vanity-linktree-page.jpeg' | relative_url }}"
+      alt="IT MIGHT AS WELL BE CARRD"
+      width="1024"
+      height="1024">
+
+    <nav class="links" aria-label="Other links">
+      <a href="https://www.youtube.com/channel/UCOtiM7d8WPa8kqNemN3bpVg">YouTube</a>
+      <!-- Add additional links here, one <a href="...">Name</a> per line. -->
+    </nav>
+  </main>
+</body>
+</html>
