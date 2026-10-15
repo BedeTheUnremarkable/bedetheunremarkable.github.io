@@ -12,7 +12,9 @@ tags:
 
 **Rating: 5.5/10**
 
-[Cabela's Dangerous Hunts 2 cover artwork showing a hunter confronted by wolves](/assets/images/cabelasdangeroushunts2cover.jpg)
+<figure style="margin:1.5em auto; text-align:center;">
+  <a href="/assets/images/cabelasdangeroushunts2cover.jpg"><img src="/assets/images/cabelasdangeroushunts2cover.jpg" alt="Cabela's Dangerous Hunts 2 cover artwork showing a hunter confronted by wolves" style="width:100%; max-width:400px; height:auto;"></a>
+</figure>
 
 *Cabela's Dangerous Hunts 2* is not really a hunting simulation. It's a budget FPS with natural horror themes, and I think approaching it as anything else is setting yourself up for disappointment. There's very little hunting strategy involved, and it's closer to one of those arcade hunting games you'd find at an actual Cabela's store, except someone decided to make it dark and edgy. Imagine if *Chicken Shoot* took itself seriously as a horror game, and it actually worked to some degree. That's more or less what you're getting here.
 
@@ -22,9 +24,10 @@ I initially played the game on normal difficulty, and while I enjoyed some of it
 
 After finishing it, I played through it again on hard, this time with the music turned off and hardly ever using the slowdown mechanic. This improved the experience considerably. The game is much more threatening when its animals can actually kill you, you can't trivialize every attack by slowing down time, and the environmental sounds are allowed to do the work of establishing the atmosphere. I'd go so far as to recommend playing it this way on your first playthrough.
 
-[A foggy forest and wooden bridge in the Windows version of Dangerous Hunts 2](/assets/images/cdhs2atmosphere.jpg)
-
-*The woodland environments can be surprisingly effective.
+<figure style="margin:1.5em auto; text-align:center;">
+  <a href="/assets/images/cdhs2atmosphere.jpg"><img src="/assets/images/cdhs2atmosphere.jpg" alt="A foggy forest and wooden bridge in the Windows version of Dangerous Hunts 2" style="width:100%; max-width:500px; height:auto;"></a>
+  <figcaption>The woodland environments can be surprisingly effective.</figcaption>
+</figure>
 
 The first level actually has some remarkably atmospheric moments, particularly the cougar ambushes. The audio cues can get excessive, especially if you're progressing quickly, but there were several occasions where I was genuinely startled. I know jumpscares are widely disliked as a cheap way of frightening people, but I think they're entirely appropriate here. You're wandering through wilderness inhabited by predators, some of which are actively stalking you. An animal suddenly emerging from the undergrowth to attack you is precisely the sort of thing that *should* be frightening in a game like this.
 
@@ -48,9 +51,10 @@ With them enabled, it's a campy B-movie adventure with mediocre acting, dated wr
 
 Without the cutscenes, however, it's a surprisingly bleak wilderness survival game in which you're escorting people through dangerous environments, struggling with ammunition shortages, and being ambushed by hostile wildlife. When the yeti finally appears, it doesn't necessarily feel like the punchline to an absurd story anymore. It's more like a revelation that the people who claim to have seen Bigfoot were telling the truth all along.
 
-[The yeti boss encounter in a snowy mountain setting in Dangerous Hunts 2](/assets/images/yeti.webp)
-
-*The final encounter. (Spoiler, obviously.)*
+<figure style="margin:1.5em auto; text-align:center;">
+  <a href="/assets/images/yeti.webp"><img src="/assets/images/yeti.webp" alt="The yeti boss encounter in a snowy mountain setting in Dangerous Hunts 2" style="width:100%; max-width:500px; height:auto;"></a>
+  <figcaption>The final encounter. (Spoiler, obviously.)</figcaption>
+</figure>
 
 Neither interpretation is necessarily wrong, but they pull in opposite directions. The B-movie charm and the genuinely effective horror are separate layers of the experience, and to some extent you can choose which one you want. I actually think the game is scarier without its story, which is a rather peculiar thing to say about a horror game.
 
