@@ -12,11 +12,9 @@ tags:
 
 **Rating: 5.5/10**
 
-![Cabela's Dangerous Hunts 2 cover artwork showing a hunter confronted by wolves](/assets/images/cabelasdangeroushunts2cover.jpg)
+[Cabela's Dangerous Hunts 2 cover artwork showing a hunter confronted by wolves](/assets/images/cabelasdangeroushunts2cover.jpg)
 
 *Cabela's Dangerous Hunts 2* is not really a hunting simulation. It's a budget FPS with natural horror themes, and I think approaching it as anything else is setting yourself up for disappointment. There's very little hunting strategy involved, and it's closer to one of those arcade hunting games you'd find at an actual Cabela's store, except someone decided to make it dark and edgy. Imagine if *Chicken Shoot* took itself seriously as a horror game, and it actually worked to some degree. That's more or less what you're getting here.
-
-[-----]
 
 The voice acting is mediocre, although not intolerable, and has a certain B-movie charm to it. A lot of the comedy is obviously unintentional, but I think there's a distinction worth making between something being so bad it's good in a cutscene and something being so bad it's good in the actual gameplay. The former is often charming, whereas the latter can just be miserable to play. Fortunately, *Dangerous Hunts 2* is more competent at the latter than you might expect, provided you're willing to work around some of its questionable design decisions.
 
@@ -24,7 +22,7 @@ I initially played the game on normal difficulty, and while I enjoyed some of it
 
 After finishing it, I played through it again on hard, this time with the music turned off and hardly ever using the slowdown mechanic. This improved the experience considerably. The game is much more threatening when its animals can actually kill you, you can't trivialize every attack by slowing down time, and the environmental sounds are allowed to do the work of establishing the atmosphere. I'd go so far as to recommend playing it this way on your first playthrough.
 
-![A foggy forest and wooden bridge in the Windows version of Dangerous Hunts 2](/assets/images/cdhs2atmosphere.jpg)
+[A foggy forest and wooden bridge in the Windows version of Dangerous Hunts 2](/assets/images/cdhs2atmosphere.jpg)
 
 *The woodland environments can be surprisingly effective.
 
@@ -50,7 +48,7 @@ With them enabled, it's a campy B-movie adventure with mediocre acting, dated wr
 
 Without the cutscenes, however, it's a surprisingly bleak wilderness survival game in which you're escorting people through dangerous environments, struggling with ammunition shortages, and being ambushed by hostile wildlife. When the yeti finally appears, it doesn't necessarily feel like the punchline to an absurd story anymore. It's more like a revelation that the people who claim to have seen Bigfoot were telling the truth all along.
 
-![The yeti boss encounter in a snowy mountain setting in Dangerous Hunts 2](/assets/images/yeti.webp)
+[The yeti boss encounter in a snowy mountain setting in Dangerous Hunts 2](/assets/images/yeti.webp)
 
 *The final encounter. (Spoiler, obviously.)*
 
